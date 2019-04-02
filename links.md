@@ -5,11 +5,14 @@
 
 * [Daniel Shiffman's "Learning Processing"](http://learningprocessing.com/)
 
+* [Happy Coding Tutorials](https://happycoding.io/tutorials/processing/)
+
 
 ## Intermediate
 * [Generative Gestaltung](http://www.generative-gestaltung.de/)
 
 * [The Nature of Code](https://natureofcode.com/book/)
+
 
 # Programing Languages
 
