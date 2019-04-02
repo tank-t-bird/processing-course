@@ -14,7 +14,7 @@
 * [The Nature of Code](https://natureofcode.com/book/)
 
 
-# Programing Languages
+## Programing Languages
 
 * [Programming Languages History and family tree](https://upload.wikimedia.org/wikipedia/commons/2/25/Genealogical_tree_of_programming_languages.svg)
 
