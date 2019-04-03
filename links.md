@@ -26,12 +26,15 @@
 ## Inspiration
 
 * [Animated Book Covers](https://inconvergent.net/generative/)
+
 * [Processing Exhibition](https://processing.org/exhibition/)
+
 * [OpenProcessing](https://www.openprocessing.org/browse/#)
+
 * [Codepen](https://codepen.io/pens/)
 
 
-## The videos
+## The Videos
 
 * [BBC DOCUMENTARY : Calculating Ada - The Countess of Computing 2015](https://www.youtube.com/watch?v=QgUVrzkQgds)
 
