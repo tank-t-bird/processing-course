@@ -25,6 +25,7 @@
 
 ## Inspiration
 
+* [Animated Book Covers](https://inconvergent.net/generative/)
 * [Processing Exhibition](https://processing.org/exhibition/)
 * [OpenProcessing](https://www.openprocessing.org/browse/#)
 * [Codepen](https://codepen.io/pens/)
