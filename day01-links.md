@@ -1,11 +1,16 @@
+# Day 01: First Steps
+
 ## The Fundamentals
-* [The Official Reference](http://processing.org/reference/)
+* [The Official Reference](http://processing.org/reference/) (or right click on the blue function name inside the Processing editor)
 
-* [Complete Tutorials in German](http://michaelkipp.de/processing/index.html#toc-prog1)
-
-* [Daniel Shiffman's "Learning Processing"](http://learningprocessing.com/)
+* [Daniel Shiffman's "Learning Processing"](http://learningprocessing.com/examples)
 
 * [Happy Coding Tutorials](https://happycoding.io/tutorials/processing/)
+  
+  * [Functions](https://happycoding.io/tutorials/processing/calling-functions)
+* [Complete Tutorials in German](http://michaelkipp.de/processing/index.html#toc-prog1)
+
+  * [Funktionen](http://michaelkipp.de/processing/09%20funktionen.html)
 
 
 ## Intermediate
@@ -21,17 +26,6 @@
 * [Popular languages and their use in 2015](http://blog.mclaughlinsoftware.com/wp-content/uploads/2015/01/07dataflow-14036434246802.jpg)
 
 * [Programming Languages by speed](https://benchmarksgame-team.pages.debian.net/benchmarksgame/)
-
-
-## Inspiration
-
-* [Animated Book Covers](https://inconvergent.net/generative/)
-
-* [Processing Exhibition](https://processing.org/exhibition/)
-
-* [OpenProcessing](https://www.openprocessing.org/browse/#)
-
-* [Codepen](https://codepen.io/pens/)
 
 
 ## The Videos
