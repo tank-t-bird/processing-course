@@ -7,3 +7,5 @@ Links and notes for the Programming with Processing course at the Fachhochschule
 
 [Inspiration Links (WIP)](https://github.com/tank-t-bird/processing-course/blob/master/inspiration.md)
 
+[How to Upload your files](https://github.com/tank-t-bird/processing-course/blob/master/uploading.md)
+
